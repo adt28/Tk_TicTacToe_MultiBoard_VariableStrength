@@ -14,8 +14,11 @@ Board Size Options: 3x3, 4x4, 5x5, 6x6, 7x7 & 8x8
 
 Difficulty Level ( i.e. Computer Strength):
 Options: 0 / 1 / 2  (Default Level Is 1)
+
 Level 0 - Computer plays random moves and discontinues blocking opponents victory, after 50% slots get filled up
+
 Level 1 - Computer plays optimum moves but discontinues blocking opponents victory, after 70% slots get filled up
+
 Level 2 - Computer plays at full strength as follows:
      (a) Firstly, go for immediate win if available.
      (b) Otherwise, block opponent if on the verge of immediate win.
