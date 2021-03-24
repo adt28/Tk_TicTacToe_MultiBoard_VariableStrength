@@ -1,6 +1,5 @@
-# Tk_TicTacToe_MultiBoard_VariableStrength 
-Developed By A.D.Tejpal - 24-Mar-2021
-==========================================
+# Tk_TicTacToe_MultiBoard_VariableStrength - Developed By A.D.Tejpal - 24-Mar-2021
+
 Human Player Vs Computer - (Human Player Has First Move)
 
 Fill A Row, Column Or Diagonal To Win.
