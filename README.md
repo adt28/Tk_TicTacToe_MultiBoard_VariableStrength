@@ -1,5 +1,5 @@
 # Tk_TicTacToe_MultiBoard_VariableStrength 
-TicTacToe On Python Tkinter - MultiBoard-VariableStrength
+
 Developed By A.D.Tejpal - 24-Mar-2021
 ==========================================
 Human Player Vs Computer - (Human Player Has First Move)
